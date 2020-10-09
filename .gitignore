@@ -1,3 +1,10 @@
-.sln
-.csproj
-.vcxproj*
+# Visual Studio/VS Code specific files
+.vs
+.vscode
+bin
+obj
+Debug
+
+*.sln
+*.csproj
+*.vcxproj*
